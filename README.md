@@ -5,4 +5,4 @@ Our project, UniAct, aims to address the socialization challenges faced by TUL s
 ## Prototype
 Figma is used for prototyping. <br />
 
-Prototype Link: ``` https://www.figma.com/proto/PXGE78YWrUAtoGn3CYZ5RQ/HCI-FINAL?node-id=14-207&starting-point-node-id=14%3A207&scaling=scale-down&mode=design&t=wJzrRZGqXhw2GSXu-1
+Prototype Link: https://www.figma.com/proto/PXGE78YWrUAtoGn3CYZ5RQ/HCI-FINAL?node-id=14-207&starting-point-node-id=14%3A207&scaling=scale-down&mode=design&t=wJzrRZGqXhw2GSXu-1
