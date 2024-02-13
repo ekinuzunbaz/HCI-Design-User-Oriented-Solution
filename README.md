@@ -8,7 +8,7 @@ The process began with extensive user research, including interviews and surveys
 Figma is used for prototyping. <br />
 
 Prototype Link: <br />
-https://www.figma.com/proto/PXGE78YWrUAtoGn3CYZ5RQ/HCI-FINAL?node-id=14-207&starting-point-node-id=14%3A207&scaling=scale-down&mode=design&t=wJzrRZGqXhw2GSXu-1 <br />
+https://www.figma.com/proto/PXGE78YWrUAtoGn3CYZ5RQ/HCI-FINAL?node-id=14-207&starting-point-node-id=14%3A207&scaling=scale-down&mode=design&t=wJzrRZGqXhw2GSXu-1 <br /><br />
 
 ![Main Page](https://github.com/ekinuzunbaz/HCI-Design-User-Oriented-Solution/assets/73299618/c5251d72-92b3-4118-a5df-f61cd41c385e) <br />
 Main Page <br /><br />
